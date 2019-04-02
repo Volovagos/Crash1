@@ -1,0 +1,1000 @@
+[07:23:03] [Server thread/WARN] [FTB Utilities]: Command command.waterstrainer.waterstrainerreload (class: mods.waterstrainer.command.CommandReload) has invalid usage language key: /waterstrainerreload
+[07:23:03] [Server thread/WARN] [FTB Utilities]: Command command.opencomputers.oc_renderwirelessnetwork (class: li.cil.oc.server.command.WirelessRenderingCommand$) has invalid usage language key: oc_renderWirelessNetwork <boolean>
+[07:23:03] [Server thread/WARN] [FTB Utilities]: Command command.openmods.om_source_s (class: openmods.source.CommandSource) has invalid usage language key: om_source_s class <class name>
+[07:23:03] [Server thread/WARN] [FTB Utilities]: Command command.cyclicmagic.villageinfo (class: com.lothrazar.cyclicmagic.command.CommandVillageInfo) has invalid usage language key: /villageinfo
+[07:23:03] [Server thread/WARN] [FTB Utilities]: Command command.minecolonies.minecolonies (class: com.minecolonies.coremod.commands.CommandEntryPointNew) has invalid usage language key: /mineColonies <colonies|kill|colony|citizens|rs|rtp|backup|home|raid-tonight|raid-now|check|whoami|whereami|scan|lootGen>
+[07:23:03] [Server thread/WARN] [FTB Utilities]: Command command.openblocks.luck (class: openblocks.rubbish.CommandLuck) has invalid usage language key: luck <player> [<amount>]
+[07:23:03] [Server thread/WARN] [FTB Utilities]: Command command.cyclicmagic.worldhome (class: com.lothrazar.cyclicmagic.command.CommandWorldHome) has invalid usage language key: /worldhome
+[07:23:03] [Server thread/WARN] [FTB Utilities]: Command command.pneumaticcraft.getglobalvariable (class: me.desht.pneumaticcraft.common.commands.CommandGetGlobalVariable) has invalid usage language key: getGlobalVariable <variableName>
+[07:23:03] [Server thread/WARN] [FTB Utilities]: Command command.badwithernocookiereloaded.listen (class: com.kreezcraft.badwithernocookiereloaded.ListenCommand) has invalid usage language key: /listen
+ - toggles display of the sound event names in the current text stream
+[07:23:03] [Server thread/WARN] [FTB Utilities]: Command command.openblocks.ob_inventory (class: openblocks.common.CommandInventory) has invalid usage language key: ob_inventory store <player> OR ob_inventory restore <player> <file without 'inventory-' and '.dat'> OR ob_inventory spawn <file without 'inventory-' and '.dat'> [<sub_inventory OR 'main'>,  [<index of item>]]
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.rftoolsdim.rftdim (class: mcjty.rftoolsdim.commands.CommandRftDim) has invalid usage language key: rftdim <subcommand> <args> (try 'rftdim help' for more info)
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.opencomputers.oc_senddebugmessage (class: li.cil.oc.server.command.SendDebugMessageCommand$) has invalid usage language key: oc_sendDebugMessage<destinationAddress> [message...]
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.minecolonies.minecolonies (class: com.minecolonies.coremod.commands.CommandEntryPointNew) has invalid usage language key: /mineColonies <colonies|kill|colony|citizens|rs|rtp|backup|home|raid-tonight|raid-now|check|whoami|whereami|scan|lootGen>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.cyclicmagic.searchspawner (class: com.lothrazar.cyclicmagic.command.CommandSearchSpawner) has invalid usage language key: /searchspawner
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.realfilingcabinet./rfc (class: com.bafomdad.realfilingcabinet.commands.CommandRFC) has invalid usage language key: /rfc
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.terraqueous.repairstormforge (class: shetiphian.terraqueous.common.command.StormForgeCommand) has invalid usage language key: repairStormForge me  OR  repairStormForge at x y z <d><br>'me' uses the players location, 'at' uses the provided location<br>x, y, & z can be any of the blocks making the vault<br>d is optional, it is the dimension; defaults to sending players current, or 0 if server sent
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.topaddons.tophelmet (class: io.github.drmanganese.topaddons.helmets.CommandTOPHelmet) has invalid usage language key: /tophelmet blacklist <add/remove>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.mekanism.mk (class: mekanism.common.CommandMekanism) has invalid usage language key: /mk <parameters>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.crafttweaker.crafttweaker (class: crafttweaker.mc1120.commands.CTChatCommand) has invalid usage language key: /crafttweaker biomeTypes | biomes | blockinfo | blocks | botania | botbrews | botlexcats | botlexentries | botlexpages | botlextypes | botorechid | bugs | chiselGroups | conflict | copy | discord | docs | dumpzs | entities | foods | hand | help | inventory | jeiCategories | json | liquids | log | mods | names | nbt | oredict | potions | recipeNames | recipes | reload | scripts | seeds | syntax | thaumcraftDump | ticmat | wiki | zslint
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.cyclopscore.integrateddynamicscompat (class: org.cyclops.cyclopscore.command.CommandMod) has invalid usage language key: /integrateddynamicscompat <config | version>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.enderstorage.enderstorage.help (class: codechicken.lib.command.help.HelpCommandBase) has invalid usage language key: Displays help for /EnderStorage commands.
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.enderstorage.enderstorage.clear (class: codechicken.enderstorage.command.ClearCommand) has invalid usage language key: Provides ability to clear a users EnderStorage.
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.nutrition.nutrition (class: ca.wescook.nutrition.utility.ChatCommand) has invalid usage language key: /nutrition <get/set/add/subtract/reset/reload> <player> <nutrient> <value>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.lostcities.lc_buildpart (class: mcjty.lostcities.commands.CommandBuildPart) has invalid usage language key: lc_buildpart <partname>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.bloodmagic.bloodmagic.help.ritual (class: net.minecraftforge.server.command.CommandTreeHelp$HelpSubCommand) has invalid usage language key: null
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.cyclopscore.colossalchests (class: org.cyclops.cyclopscore.command.CommandMod) has invalid usage language key: /colossalchests <config | version>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.cyclicmagic.searchtrade (class: com.lothrazar.cyclicmagic.command.CommandSearchTrades) has invalid usage language key: /searchtrade <item name> <qty>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.minecolonies.minecolonies (class: com.minecolonies.coremod.commands.CommandEntryPointNew) has invalid usage language key: /mineColonies <colonies|kill|colony|citizens|rs|rtp|backup|home|raid-tonight|raid-now|check|whoami|whereami|scan|lootGen>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.baubles.baubles (class: baubles.common.event.CommandBaubles) has invalid usage language key: /baubles <action> [<player> [<params>]]
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.aroma1997core.aroma1997 (class: aroma1997.core.command.AromaCommand) has invalid usage language key: /aroma1997 reloadclient OR /aroma1997 setupDeathCounter OR /aroma1997 setupDeathCounter <location> OR /aroma1997 setupDeathCounter <location> <name> OR /aroma1997 dimension OR /aroma1997 tp <dimension> OR /aroma1997 tp <x> <y> <z> OR /aroma1997 tp <x> <y> <z> <dimension> OR /aroma1997 tabcomplete <command> OR /aroma1997 openGui OR /aroma1997 debugCrash
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.mekanism.mk (class: mekanism.common.CommandMekanism) has invalid usage language key: /mk <parameters>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.opencomputers.oc_senddebugmessage (class: li.cil.oc.server.command.SendDebugMessageCommand$) has invalid usage language key: oc_sendDebugMessage<destinationAddress> [message...]
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.cyclicmagic.sethearts (class: com.lothrazar.cyclicmagic.command.CommandHearts) has invalid usage language key: /sethearts <player> <hearts>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.opencomputers.oc_preventdisassembling (class: li.cil.oc.server.command.NonDisassemblyAgreementCommand$) has invalid usage language key: oc_preventDisassembling <boolean>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.tombmanygraves.tmg_getdeathlist (class: com.m4thg33k.tombmanygraves.commands.CommandGetDeathList) has invalid usage language key: tmg_getDeathList [player] <timestamp or latest>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.minecolonies.minecolonies (class: com.minecolonies.coremod.commands.CommandEntryPointNew) has invalid usage language key: /mineColonies <colonies|kill|colony|citizens|rs|rtp|backup|home|raid-tonight|raid-now|check|whoami|whereami|scan|lootGen>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.practicallogistics2./logistics resetregistry (class: sonar.logistics.base.utils.commands.CommandResetInfoRegistry) has invalid usage language key: /logistics resetRegistry
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.cyclopscore.cyclopscore (class: org.cyclops.cyclopscore.command.CommandMod) has invalid usage language key: /cyclopscore <ignite | debug | reloadresources | config | version | recursion>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.oreexcavation.undo_excavation (class: oreexcavation.core.CommandUndo) has invalid usage language key: /undo_excavation
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.minecolonies.minecolonies (class: com.minecolonies.coremod.commands.CommandEntryPoint) has invalid usage language key: /minecolonies <colonies|kill|colony|citizens|rtp|backup|home|loadBackup|raid-tonight|raid-now|check|whoami|whereami|lootGen>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.tombmanygraves.tmg_steal (class: com.m4thg33k.tombmanygraves.commands.CommandGainOwnership) has invalid usage language key: tmg_steal [x] [y] [z]
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.opencomputers.oc_preventdisassembling (class: li.cil.oc.server.command.NonDisassemblyAgreementCommand$) has invalid usage language key: oc_preventDisassembling <boolean>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.pneumaticcraft.setglobalvariable (class: me.desht.pneumaticcraft.common.commands.CommandSetGlobalVariable) has invalid usage language key: setGlobalVariable <variableName> <x> <y> <z>
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.rftools.rftcfg (class: mcjty.rftools.commands.CommandRftCfg) has invalid usage language key: rftcfg <subcommand> <args> (try 'rftcfg help' for more info)
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.packmode.packmode (class: io.sommers.packmode.PackModeCommand) has invalid usage language key: /packmode <name> Sets the Packmode. Current valid packmodes are normal , simplified
+[07:23:04] [Server thread/WARN] [FTB Utilities]: Command command.badwithernocookiereloaded.listen (class: com.kreezcraft.badwithernocookiereloaded.ListenCommand) has invalid usage language key: /listen
+ - toggles display of the sound event names in the current text stream
+[07:23:04] [Server thread/INFO] [FTB Utilities]: Overridden 271 commands
+[07:23:04] [Server thread/INFO] [FTB Utilities Backups]: Backups folder - C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\backups
+[07:23:04] [Server thread/INFO] [iChunUtil]: [NEW UPDATE AVAILABLE] PortalGun - 7.1.0
+[07:23:04] [Server thread/INFO] [iChunUtil]: [NEW UPDATE AVAILABLE] iChunUtil - 7.2.1
+[07:23:05] [Server thread/INFO] [mcjty.lib.varia.Logging]: RFTools: server is starting
+[07:23:05] [Server thread/INFO] [mcjty.lib.varia.Logging]: Registering RFTools dimensions: 
+[07:23:05] [File IO Thread/INFO] [STDERR]: [com.feed_the_beast.ftblib.lib.util.FileUtils:lambda$deleteSafe$4:259]: Failed to safely delete C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\local\ftbutilities\all_configs.html
+[07:23:09] [Thread-37/INFO] [THAUMCRAFT]: Starting aura thread for dim 0
+[07:23:12] [Thread-42/INFO] [THAUMCRAFT]: Starting aura thread for dim 1
+[07:23:12] [Thread-43/INFO] [THAUMCRAFT]: Starting aura thread for dim 50
+[07:23:12] [Thread-44/INFO] [THAUMCRAFT]: Starting aura thread for dim 51
+[07:23:12] [Thread-45/INFO] [THAUMCRAFT]: Starting aura thread for dim 52
+[07:23:12] [Thread-46/INFO] [THAUMCRAFT]: Starting aura thread for dim 53
+[07:23:12] [Thread-47/INFO] [THAUMCRAFT]: Starting aura thread for dim -1
+[07:23:14] [Thread-48/INFO] [THAUMCRAFT]: Starting aura thread for dim 144
+[07:23:14] [Thread-49/INFO] [THAUMCRAFT]: Starting aura thread for dim 111
+[07:23:14] [Thread-50/INFO] [THAUMCRAFT]: Starting aura thread for dim 33
+[07:23:14] [Thread-52/INFO] [THAUMCRAFT]: Starting aura thread for dim 20
+[07:23:14] [Thread-51/INFO] [THAUMCRAFT]: Starting aura thread for dim 418
+[07:23:14] [Thread-53/INFO] [THAUMCRAFT]: Starting aura thread for dim -11325
+[07:23:14] [Thread-54/INFO] [THAUMCRAFT]: Starting aura thread for dim -9999
+[07:23:14] [Thread-55/INFO] [THAUMCRAFT]: Starting aura thread for dim 4598
+[07:23:14] [Thread-56/INFO] [THAUMCRAFT]: Starting aura thread for dim -6
+[07:23:14] [Thread-57/INFO] [THAUMCRAFT]: Starting aura thread for dim 7
+[07:23:14] [Thread-58/INFO] [THAUMCRAFT]: Starting aura thread for dim -2
+[07:23:14] [Thread-59/INFO] [THAUMCRAFT]: Starting aura thread for dim 2
+[07:23:16] [Server thread/INFO] [minecraft/IntegratedServer]: Changing view distance to 8, from 10
+[07:23:31] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 25029ms behind, skipping 500 tick(s)
+[07:23:45] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 14113ms behind, skipping 282 tick(s)
+[07:23:50] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 1
+[07:23:51] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:83)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:27)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[07:23:51] [Thread-42/INFO] [THAUMCRAFT]: Stopping aura thread for dim 1
+[07:23:51] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30) [WorldEventHandler.class:1.12.2-5.5.3]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[07:23:52] [Server thread/INFO] [FML]: Unloading dimension 1
+[07:23:52] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 50
+[07:23:52] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:83)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:27)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[07:23:52] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30) [WorldEventHandler.class:1.12.2-5.5.3]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[07:23:52] [Server thread/INFO] [FML]: Unloading dimension 50
+[07:23:52] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 51
+[07:23:52] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:83)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:27)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[07:23:52] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30) [WorldEventHandler.class:1.12.2-5.5.3]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[07:23:52] [Server thread/INFO] [FML]: Unloading dimension 51
+[07:23:52] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 52
+[07:23:52] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:83)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:27)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[07:23:52] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30) [WorldEventHandler.class:1.12.2-5.5.3]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[07:23:52] [Server thread/INFO] [FML]: Unloading dimension 52
+[07:23:52] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 53
+[07:23:52] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:83)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:27)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[07:23:52] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30) [WorldEventHandler.class:1.12.2-5.5.3]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[07:23:52] [Server thread/INFO] [FML]: Unloading dimension 53
+[07:23:52] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 144
+[07:23:52] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:83)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:27)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[07:23:52] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30) [WorldEventHandler.class:1.12.2-5.5.3]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[07:23:52] [Server thread/INFO] [FML]: Unloading dimension 144
+[07:23:52] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 111
+[07:23:52] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:83)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:27)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[07:23:52] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30) [WorldEventHandler.class:1.12.2-5.5.3]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[07:23:52] [Server thread/INFO] [FML]: Unloading dimension 111
+[07:23:52] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 33
+[07:23:52] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:83)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:27)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[07:23:52] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30) [WorldEventHandler.class:1.12.2-5.5.3]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[07:23:52] [Server thread/INFO] [FML]: Unloading dimension 33
+[07:23:52] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 418
+[07:23:52] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:83)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:27)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[07:23:52] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30) [WorldEventHandler.class:1.12.2-5.5.3]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[07:23:52] [Server thread/INFO] [FML]: Unloading dimension 418
+[07:23:52] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 20
+[07:23:52] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:83)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:27)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[07:23:52] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30) [WorldEventHandler.class:1.12.2-5.5.3]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[07:23:52] [Server thread/INFO] [FML]: Unloading dimension 20
+[07:23:52] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -11325
+[07:23:52] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:83)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:27)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[07:23:52] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30) [WorldEventHandler.class:1.12.2-5.5.3]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[07:23:52] [Server thread/INFO] [FML]: Unloading dimension -11325
+[07:23:52] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 4598
+[07:23:52] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:83)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:27)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[07:23:52] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30) [WorldEventHandler.class:1.12.2-5.5.3]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[07:23:52] [Server thread/INFO] [FML]: Unloading dimension 4598
+[07:23:52] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -6
+[07:23:52] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:83)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:27)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[07:23:52] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30) [WorldEventHandler.class:1.12.2-5.5.3]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[07:23:52] [Server thread/INFO] [FML]: Unloading dimension -6
+[07:23:52] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 7
+[07:23:52] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:83)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:27)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[07:23:52] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30) [WorldEventHandler.class:1.12.2-5.5.3]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[07:23:52] [Server thread/INFO] [FML]: Unloading dimension 7
+[07:23:52] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -2
+[07:23:52] [Server thread/ERROR] [journeymap]: ExecutionException in getPlayer: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.NullPointerException
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2217)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:303)
+	at journeymap.client.data.DataCache.getPlayer(DataCache.java:190)
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic)
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:770)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4153)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at journeymap.client.data.DataCache.getEntityDTO(DataCache.java:441)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:83)
+	at journeymap.client.data.PlayerData.load(PlayerData.java:27)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	... 15 more
+
+[07:23:52] [Server thread/ERROR] [journeymap]: Error handling WorldEvent.Unload
+java.lang.NullPointerException: null
+	at journeymap.client.forge.event.WorldEventHandler.onUnload(WorldEventHandler.java:30) [WorldEventHandler.class:1.12.2-5.5.3]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_3907_WorldEventHandler_onUnload_Unload.invoke(.dynamic) [?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) [ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.common.DimensionManager.unloadWorlds(DimensionManager.java:403) [DimensionManager.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:788) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185) [chd.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_201]
+[07:23:52] [Server thread/INFO] [FML]: Unloading dimension -2
+[07:23:53] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6823ms behind, skipping 136 tick(s)
+[07:23:53] [Thread-49/INFO] [THAUMCRAFT]: Stopping aura thread for dim 111
+[07:23:53] [Thread-45/INFO] [THAUMCRAFT]: Stopping aura thread for dim 52
+[07:23:53] [Thread-43/INFO] [THAUMCRAFT]: Stopping aura thread for dim 50
+[07:23:53] [Thread-50/INFO] [THAUMCRAFT]: Stopping aura thread for dim 33
+[07:23:53] [Thread-58/INFO] [THAUMCRAFT]: Stopping aura thread for dim -2
+[07:23:53] [Thread-44/INFO] [THAUMCRAFT]: Stopping aura thread for dim 51
+[07:23:53] [Thread-55/INFO] [THAUMCRAFT]: Stopping aura thread for dim 4598
+[07:23:53] [Thread-56/INFO] [THAUMCRAFT]: Stopping aura thread for dim -6
+[07:23:53] [Thread-52/INFO] [THAUMCRAFT]: Stopping aura thread for dim 20
+[07:23:53] [Thread-46/INFO] [THAUMCRAFT]: Stopping aura thread for dim 53
+[07:23:53] [Thread-53/INFO] [THAUMCRAFT]: Stopping aura thread for dim -11325
+[07:23:53] [Thread-51/INFO] [THAUMCRAFT]: Stopping aura thread for dim 418
+[07:23:53] [Thread-57/INFO] [THAUMCRAFT]: Stopping aura thread for dim 7
+[07:23:53] [Thread-48/INFO] [THAUMCRAFT]: Stopping aura thread for dim 144
+[07:23:59] [Client thread/INFO] [Actually Additions]: Unloaded WorldData!
+[07:24:01] [Netty Local Client IO #0/INFO] [FML]: Server protocol version 2
+[07:24:01] [Netty Server IO #1/INFO] [FML]: Client protocol version 2
+[07:24:01] [Netty Server IO #1/INFO] [FML]: Client attempting to join with 297 mods : slimyboyos@1.0.0,draconicevolution@2.3.20,thermalinnovation@0.3.2,modnametooltip@1.10.0,endercore@1.12.2-0.5.45,thaumicjei@1.2.1,jeibees@0.9.0.5,ctm@MC1.12.2-0.3.3.22,xnet@1.7.6,reauth@3.6.0,rangedpumps@0.5,forgelin@1.8.2,microblockcbe@2.6.1.81,xreliquary@1.12.2-1.3.4.786,randompatches@1.12.2-1.14.0.0,darkutils@1.8.223,betterbuilderswands@0.11.1,morpheus@1.12.2-3.5.106,wirelesscharger@1.12.2-1.0.6,ftblib@5.4.1.84,enderioconduitsrefinedstorage@5.0.40,waterstrainer@3.2.0,redstonearsenal@2.6.2,guideapi@1.12-2.1.8-63,jeresources@0.8.10.50,mcmultipart@2.5.3,acintegration@1.7.0,mysticalagradditions@1.3.1,shetiphiancore@3.5.9,mysticallib@1.12.2-1.0.0,enderioconduits@5.0.40,malisisdoors@1.12.2-7.3.0,refinedstorage@1.6.12,storagedrawersextra@@VERSION@,techreborn@2.20.13.940,packcrashinfo@%VERSION%,flyringbaublemod@0.3.1_1.12-d4e654e,tombmanygraves2api@1.12.2-1.0.0,industrialforegoing@1.12.2-1.12.2,malisiscore@1.12.2-6.4.0,unidict@1.12.2-2.9.2,jaopcaadditions@1.12.2-2.2.1.9,biomesoplenty@7.0.1.2419,redstoneflux@2.1.0,soulshardstow@1.12-2.7.6-56,concheckrmd@1.7.0,modtweaker@4.0.16,botania@r1.10-360,gendustry@1.6.5.8,fairylights@2.1.5,resourceloader@1.5.3,portality@1.0-SNAPSHOT,projectred-core@4.9.0.86,ic2@2.8.111-ex112,abyssalcraft@1.9.5.2,shadowmc@3.8.0,lunatriuscore@1.2.0.42,topaddons@1.12.2-1.10.1,advgenerators@0.9.20.12,teslacorelib@1.0.15,projectred-fabrication@4.9.0.86,ceramics@1.12-1.3.6,projectred-transportation@1.0,projectred-exploration@4.9.0.86,FML@8.0.99.99,thermalexpansion@5.5.3,nonvflash@1.2.0,projectred-integration@4.9.0.86,rftoolsdim@5.64,enderiointegrationtic@5.0.40,oredictinit@1.12.2-2.2.1.71,forgemultipartcbe@2.6.1.81,codechickenlib@3.2.2.353,techreborn_compat@1.0.0,industrialwires@1.7-36,aroma1997sdimension@2.0.0.2,binniedesign@2.5.1.188,justenoughdimensions@1.6.0-dev.20190112.002003,unloader@1.2.0,ctgui@1.0.0,simplyjetpacks@2.2.10.63,extrarails@1.3.0,woot@1.12.2-1.4.9,jei@4.14.4.267,careerbees@1.0,custommainmenu@2.0.9,thermalcultivation@0.3.2,bibliocraft@2.4.5,mekanism@1.12.2-9.4.13.349,xtones@1.12-1.0.8-11,thermalfoundation@2.6.2,bdlib@1.14.3.12,tcinventoryscan@2.0.10,opencomputers@1.7.4.153,notenoughwands@1.7.3,naturescompass@1.5.1,compactsolars@1.12.2-5.0.18.341,enderiointegrationticlate@5.0.40,compactmachines3@3.0.15,aroma1997core@2.0.0.2.b164,chameleon@1.12-4.1.3,conarm@1.2.3,inventorytweaks@1.64+dev.146.2180b27,pneumaticcraft@1.12.2-0.8.4-303,extrabees@2.5.1.188,crafttweaker@4.1.14,armoryexpansion@0.2.0,rftoolspower@1.1.2,immersivepetroleum@1.1.9,forge@14.23.5.2815,quickleafdecay@1.2.4,ftbutilities@5.3.0.83,cyclicmagic@1.17.16,ironchest@1.12.2-7.0.59.842,zerocore@1.12-0.1.2.3,minecraft@1.12.2,funkylocomotion@1.0,theoneprobe@1.4.28,mousetweaks@2.10,immersiveengineering@0.12-89,psi@r1.1-72,thermaldynamics@2.5.4,applecore@3.2.0,rustic@1.1.0,ding@1.0.1,enderiopowertools@5.0.40,kjlib@1.0.4,extrautils2@1.0,jeiintegration@1.5.1.36,mantle@1.12-1.3.3.42,integrateddynamics@1.0.7,usefulnullifiers@1.5.0,thebetweenlands@3.4.4,ftbbackups@0.0.0.ftbbackups,advancedrocketrycore@1,autoreglib@1.3-26,mrtjpcore@2.1.3.35,structurize@1.12.2-0.10.63-ALPHA,appleskin@1.0.9,embers@0.230,integratedtunnelscompat@1.0.0,minecraftmultipartcbe@2.6.1.81,oeintegration@2.3.4,enderioconduitsopencomputers@5.0.40,flatcoloredblocks@mc1.12-6.6,parry@1.0,ocxnetdriver@1.0.3,terraqueous@1.4.16,cosmeticarmorreworked@1.12.2-v4,magipsi@1.3,forestry@5.8.2.383,defaultoptions@9.2.8,tombmanygraves@1.12-4.2.0,cyclopscore@1.0.5,p455w0rdslib@2.0.36,astralsorcery@1.10.11,enderiointegrationforestry@5.0.40,binniecore@2.5.1.188,universalmodifiers@1.12.2-1.0.16.1,rftools@7.61,openmods@0.12.1,additionalbanners@1.1.76,cofhcore@4.6.2,kleeslabs@5.4.11,plustic@7.0.5.1,initialinventory@2.0.2,reborncore@3.13.5.421,controlling@3.0.6,cookingforblockheads@6.4.69,placebo@1.5.1,neid@1.5.4.3,ae2stuff@0.7.0.4,fencejumper@1.0.5,bookshelf@2.3.574,ironbackpacks@1.12.2-3.0.8-12,wizardry@0.9.9,projectred-illumination@4.9.0.86,wct@3.11.88,cofhworld@1.3.0,sonarcore@5.0.19,mekanismgenerators@9.4.11,librarianliblate@4.15,inventorygenerators@1.2.2,thaumcraft@6.1.BETA26,mcjtylib_ng@3.1.1,nmsot@1.2.2-mc1.12.2,twilightforest@3.8.689,immersivetech@1.3.10,actuallybaubles@1.1,extratrees@2.5.1.188,rebornstorage@1.0.0,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,commoncapabilities@2.0.4,crafttweakerjei@2.0.2,plants2@2.10.4,enderiomachines@5.0.40,mtlib@3.0.5,botany@2.5.1.188,valkyrielib@1.12.2-2.0.19.1,openmodscore@0.12.1,advancedrocketry@1.5.0.-131,helpfixer@1.12.1-1.5.18,lostsouls@1.1.4,teslacorelib_registries@1.0.15,actuallyadditions@1.12.2-r145,waim@1.0.0,oreexcavation@1.4.137,projectred-transmission@4.9.0.86,rftoolscontrol@1.9.3,integratedtunnels@1.6.7,lostcities@2.0.17,enderioconduitsappliedenergistics@5.0.40,mekanismtools@9.4.11,libvulpes@0.4.0.-52,aiimprovements@0.0.1.1,computercraft@1.80pr1,environmentaltech@1.12.2-2.0.19.1,moreoverlays@1.14,bigreactors@1.12.2-0.4.5.49,woodenshears@@MAJOR@.@MINOR@.@REVIS@.@BUILD@,badwithernocookiereloaded@1.12.2-3.3.16,quantumstorage@4.6.7,betteradvancements@0.0.17.74,ynot@0.2.3,dldungeonsjbg@1.12.3,extracells@2.6.2,ae2wtlib@1.0.6,cucumber@1.1.3,asielib@1.0.0,librarianlib@4.15,overloaded@0.0.53,atmtweaks@1.2,defaultworldgenerator-port@1.12-2.3,platforms@1.4.6,pamscookables@1.1,cosmeticarmorreworked|tombmanygraves@1.12.2-v4,realfilingcabinet@0.1.80,waystones@4.0.67,mcp@9.42,diethopper@1.1,journeymap@1.12.2-5.5.3,appliedenergistics2@rv6-stable-6,nuclearcraft@2.13e,custombackgrounds@1.0,harvestcraft@1.12.2zb,foamfixcore@7.7.4,pressure@1.3.1.9,roots@0.104,integrateddynamicscompat@1.0.0,flamingo@1.12-1.11,toastcontrol@1.8.0,computronics@1.6.5,ichunutil@7.1.4,traverse@1.6.0,enderstorage@2.4.5.135,nutrition@4.0.0,projectred-compat@1.0,discordsuite@2.2.4,akashictome@1.2-12,bloodmagic@1.12.2-2.4.0-102,brandonscore@2.4.9,colossalchests@1.7.0,magicbees@1.0,mysticalagriculture@1.7.1,openblocks@1.8,craftingtweaks@8.1.9,tconstruct@1.12.2-2.12.0.115,portalgun@7.0.2,baubles@1.5.2,exchangers@1.12.2-2.8,projectred-relocation@1.0,stevescarts@2.4.29.132,genetics@2.5.1.188,integrationforegoing@1.12.2-1.9,enderio@5.0.40,quark@r1.5-146,jaopca@1.12.2-2.2.8.100,fastbench@1.6.1,storagedrawers@1.12-5.3.5,blockcraftery@1.12.2-1.1.0,tinker_io@rw2.7.1,natura@1.12.2-4.3.2.66,wrapup@1.12-1.1.3,projectred-expansion@1.0,enderiobase@5.0.40,minecolonies@1.12.2-0.10.202-RELEASE,wanionlib@1.12.2-2.2,chisel@MC1.12.2-0.2.1.35,foamfix@0.10.3-1.12.2,opencomputers|core@1.7.4.153,excore@2.0.0-beta19-1.12.2,refinedstorageaddons@0.4.3,practicallogistics2@3.0.8,chiselsandbits@14.30,morphtool@1.2-21,packmode@1.2.0,mobtotems@1.12.1-0.3.0
+[07:24:02] [Netty Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[07:24:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[07:24:02] [Netty Local Client IO #0/INFO] [FML]: [Netty Local Client IO #0] Client side modded connection established
+[07:24:03] [Server thread/INFO] [minecraft/PlayerList]: Volovagos[local:E:d1c50d06] logged in with entity id 722 at (-58.54556119543813, 32.0, 95.61789339218022)
+[07:24:03] [Client thread/INFO] [Astral Sorcery]: Using gateway screenshots for folder 'new_modded_world'
+[07:24:03] [Server thread/INFO] [mcjty.lib.varia.Logging]: SMP: Sync dimensions to client
+[07:24:03] [Netty Local Client IO #0/INFO] [mcjty.lib.varia.Logging]: DimensionSyncPacket: Registering: 
+[07:24:03] [Client thread/INFO] [mcjty.lib.varia.Logging]: Received dimension information from server
+[07:24:03] [Server thread/INFO] [minecraft/MinecraftServer]: Volovagos joined the game
+[07:24:03] [Client thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[07:24:31] [Server thread/INFO] [EnderCore]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[07:24:39] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[07:24:39] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[07:24:39] [Server thread/INFO] [FML]: Loading dimension 144 (New Modded World) (net.minecraft.server.integrated.IntegratedServer@a900655)
+[07:24:40] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world 144
+[07:24:40] [Server thread/INFO] [compactmachines3]: Loading saved data for machine world
+[07:24:40] [Server thread/INFO] [compactmachines3]:  > 0 spawn points
+[07:24:40] [Server thread/INFO] [compactmachines3]:  > Next machine id: 0
+[07:24:40] [Server thread/INFO] [compactmachines3]:  > Players with beds in CM dimension: 0
+[07:24:40] [Server thread/INFO] [mcjty.lib.varia.Logging]: SMP: Player logged in: Sync diminfo to clients
+[07:24:40] [Server thread/INFO] [mcjty.lib.varia.Logging]: Send dimlet rules to the client
+[07:24:41] [Server thread/INFO] [mcjty.lib.varia.Logging]: Rules packet size: 5779 of 8192
+[07:24:42] [Server thread/INFO] [wizardry]: Sending module list to Volovagos
+[07:24:42] [Server thread/INFO] [structurize]: New Server UUID 45aefe98-eb99-4080-ba5f-d576e9929fab
+[07:24:46] [Server thread/INFO] [Actually Additions]: Successfully loaded WorldData!
+[07:24:46] [Server thread/INFO] [Actually Additions]: Sending Player Data to player Volovagos with UUID c3c1c78c-b182-4081-a17d-994cec84cbd5.
+[07:24:51] [Server thread/INFO] [Mekanism]: Sent config to 'Volovagos.'
+[07:24:54] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for Volovagos...
+[07:25:00] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to Volovagos
+[07:25:01] [Server thread/INFO] [minecraft/IntegratedServer]: Saving and pausing game...
+[07:25:02] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'New Modded World'/overworld
+[07:25:22] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'New Modded World'/the_nether
+[07:25:22] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'New Modded World'/ExtraUtils2_Quarry_Dim
+[07:25:22] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'New Modded World'/Storage Cell
+[07:25:22] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'New Modded World'/CompactMachines
+[07:25:22] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 80779ms behind, skipping 1615 tick(s)
+[07:25:32] [Netty Local Client IO #0/INFO] [Mekanism]: Received config from server.
+[07:25:32] [Netty Local Client IO #0/INFO] [Mekanism]: Received Cardboard Box blacklist entries from server (183 total)
+[07:25:49] [Client thread/INFO] [iChunUtil]: [NEW UPDATE AVAILABLE] PortalGun - 7.1.0
+[07:25:49] [Client thread/INFO] [iChunUtil]: [NEW UPDATE AVAILABLE] iChunUtil - 7.2.1
+[07:25:50] [Client thread/INFO] [mcjty.lib.varia.Logging]: Received dimlet rules from server
+[07:25:50] [Client thread/INFO] [Actually Additions]: Receiving (new or changed) Player Data for player Volovagos.
+[07:25:50] [Client thread/INFO] [waterstrainer]: Importing waterstrainer_loottables.cfg ...
+[07:25:50] [Client thread/INFO] [waterstrainer]: No errors were found!
+[07:25:51] [Thread-63/INFO] [THAUMCRAFT]: Starting aura thread for dim 144
+[07:25:52] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4940ms behind, skipping 98 tick(s)
+[07:25:57] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 144
+[07:25:58] [Thread-63/INFO] [THAUMCRAFT]: Stopping aura thread for dim 144
+[07:26:30] [Server thread/INFO] [FML]: Unloading dimension 144
+[07:27:07] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT] §eJourneyMap:§f Press [§bJ§f]
+[07:27:07] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 25635ms behind, skipping 512 tick(s)
+[07:27:07] [Client thread/INFO] [journeymap]: JourneyMap: Press [J]
+[07:27:15] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[07:27:17] [Client thread/INFO] [journeymap]: Loading journeymap.topo.config
+[07:27:33] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4676ms behind, skipping 93 tick(s)
+[07:27:35] [Client thread/INFO] [journeymap]: Loaded 5 waypoints from C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\journeymap\data\sp\New Modded World\waypoints
+[07:27:35] [Client thread/INFO] [journeymap]: Mapping started in C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\journeymap\data\sp\New Modded World\DIM-1. Memory: 5990MB total, 1720MB free 
+[07:27:59] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3302ms behind, skipping 66 tick(s)
+[07:28:02] [Client thread/INFO] [minecraft/AdvancementList]: Loaded 502 advancements
+[07:28:02] [Client thread/INFO] [jei]: Ingredients are being added at runtime: 11 net.minecraft.item.ItemStack
+[07:28:05] [JM-task-4/INFO] [journeymap]: Custom modded block handling enabled for bibliocraft
+[07:28:05] [JM-task-4/INFO] [journeymap]: Custom modded block handling enabled for biomesoplenty
+[07:28:06] [JM-task-4/FATAL] [CodeChickenLib]: A CCL controlled model has been improperly handled by someone and will NOT be rendered. No more information available.
+[07:28:21] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3846ms behind, skipping 76 tick(s)
+[07:29:07] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2924ms behind, skipping 58 tick(s)
+[07:29:53] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2374ms behind, skipping 47 tick(s)
+[07:30:29] [Client thread/WARN] [journeymap]: TileDrawStep.updateRegionTexture was slow: 74.563861 (Warning limit reached)
+[07:30:29] [Client thread/WARN] [journeymap]: TileDrawStep.updateRegionTexture: Avg:     0.04ms, Min:        0ms, Max:     404.53ms, Total:          1 sec, Count:    43826, Canceled:        0, Slow:       10
+[07:31:23] [Client thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[07:31:23] [Client thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[07:31:24] [Client thread/INFO] [journeymap]: Mapping halted in C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\journeymap\data\sp\New Modded World\DIM-1
+[07:31:28] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5220ms behind, skipping 104 tick(s)
+[07:31:50] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 11707ms behind, skipping 234 tick(s)
+[07:32:12] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[07:32:12] [Client thread/INFO] [journeymap]: Loading journeymap.topo.config
+[07:32:13] [Client thread/INFO] [journeymap]: Loaded 5 waypoints from C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\journeymap\data\sp\New Modded World\waypoints
+[07:32:13] [Client thread/INFO] [journeymap]: Mapping started in C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\journeymap\data\sp\New Modded World\DIM0. Memory: 5990MB total, 1528MB free 
+[07:32:14] [JM-task-5/FATAL] [CodeChickenLib]: A CCL controlled model has been improperly handled by someone and will NOT be rendered. No more information available.
+[07:32:14] [JM-task-5/WARN] [journeymap]: Unable to get any texture to use as color for thermaldynamics:duct_0[meta=0]
+[07:32:14] [JM-task-5/WARN] [journeymap]: Unable to get any texture to use as color for thermaldynamics:duct_16[meta=3]
+[07:32:16] [JM-task-5/WARN] [journeymap]: Unable to get any texture to use as color for thermaldynamics:duct_32[meta=0]
+[07:32:16] [JM-task-5/WARN] [journeymap]: Unable to get any texture to use as color for thermaldynamics:duct_16[meta=0]
+[07:32:20] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2054ms behind, skipping 41 tick(s)
+[07:32:58] [Client thread/WARN] [jei]: Recipe registry plugin is slow, took 11.04 ms. class binnie.extratrees.integration.jei.multifence.MultiFenceRecipeRegistryPlugin
+[07:36:04] [Client thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[07:36:04] [Client thread/INFO] [journeymap]: Mapping halted in C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\journeymap\data\sp\New Modded World\DIM0
+[07:36:14] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[07:36:14] [Client thread/INFO] [journeymap]: Loading journeymap.topo.config
+[07:36:15] [Client thread/INFO] [journeymap]: Loaded 5 waypoints from C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\journeymap\data\sp\New Modded World\waypoints
+[07:36:15] [Client thread/INFO] [journeymap]: Mapping started in C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\journeymap\data\sp\New Modded World\DIM-1. Memory: 5990MB total, 1091MB free 
+[07:37:48] [Server thread/INFO] [minecraft/IntegratedServer]: Saving and pausing game...
+[07:37:48] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'New Modded World'/overworld
+[07:37:48] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'New Modded World'/the_nether
+[07:37:48] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'New Modded World'/ExtraUtils2_Quarry_Dim
+[07:37:48] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'New Modded World'/Storage Cell
+[07:37:57] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT] Your game mode has been updated to Creative Mode
+[07:37:57] [Server thread/INFO] [minecraft/MinecraftServer]: [Volovagos: Set own game mode to Creative Mode]
+[07:38:10] [Server thread/INFO] [minecraft/MinecraftServer]: [Volovagos: Set own game mode to Survival Mode]
+[07:38:10] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT] Your game mode has been updated to Survival Mode
+[07:43:45] [Client thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[07:43:45] [Client thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[07:43:45] [Client thread/INFO] [journeymap]: Mapping halted in C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\journeymap\data\sp\New Modded World\DIM-1
+[07:43:56] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[07:43:56] [Client thread/INFO] [journeymap]: Loading journeymap.topo.config
+[07:43:56] [Client thread/INFO] [journeymap]: Loaded 5 waypoints from C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\journeymap\data\sp\New Modded World\waypoints
+[07:43:56] [Client thread/INFO] [journeymap]: Mapping started in C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\journeymap\data\sp\New Modded World\DIM0. Memory: 5990MB total, 812MB free 
+[07:43:56] [JM-task-7/FATAL] [CodeChickenLib]: A CCL controlled model has been improperly handled by someone and will NOT be rendered. No more information available.
+[07:43:56] [JM-task-7/WARN] [journeymap]: Unable to get any texture to use as color for thermaldynamics:duct_0[meta=0]
+[07:43:56] [JM-task-7/WARN] [journeymap]: Unable to get any texture to use as color for thermaldynamics:duct_16[meta=3]
+[07:43:56] [JM-task-7/WARN] [journeymap]: Unable to get any texture to use as color for thermaldynamics:duct_32[meta=0]
+[07:43:56] [JM-task-7/WARN] [journeymap]: Unable to get any texture to use as color for thermaldynamics:duct_16[meta=0]
+[07:55:33] [Client thread/INFO] [FML]: OBJModel: A color has already been defined for material 'Default' in 'bibliocraft:models/block/markerpole.mtl'. The color defined by key 'Ka' will not be applied!
+[08:02:46] [Client thread/WARN] [journeymap]: TileDrawStep.updateRegionTexture was slow: 132.759056 (Warning limit reached)
+[08:02:46] [Client thread/WARN] [journeymap]: TileDrawStep.updateRegionTexture: Avg:     0.01ms, Min:        0ms, Max:     198.69ms, Total:          1 sec, Count:   149708, Canceled:        0, Slow:       10
+[08:05:37] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT] To go through the portal, you have to sneak in it.
+[08:05:59] [Server thread/INFO] [FML]: Loading dimension -6 (New Modded World) (net.minecraft.server.integrated.IntegratedServer@a900655)
+[08:05:59] [Server thread/INFO] [THAUMCRAFT]: Creating aura cache for world -6
+[08:05:59] [Client thread/INFO] [journeymap]: Mapping halted in C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\journeymap\data\sp\New Modded World\DIM0
+[08:06:00] [Server thread/OFF] [Aroma1997Core]: Created portal at BlockPos{x=-539, y=100, z=476}
+[08:06:10] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 11472ms behind, skipping 229 tick(s)
+[08:06:10] [Thread-65/INFO] [THAUMCRAFT]: Starting aura thread for dim -6
+[08:06:11] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[08:06:11] [Client thread/INFO] [journeymap]: Loading journeymap.topo.config
+[08:06:11] [Client thread/INFO] [journeymap]: Loaded 5 waypoints from C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\journeymap\data\sp\New Modded World\waypoints
+[08:06:11] [Client thread/INFO] [journeymap]: Mapping started in C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\journeymap\data\sp\New Modded World\DIM-6. Memory: 5990MB total, 607MB free 
+[08:06:38] [Server thread/INFO] [minecraft/IntegratedServer]: Saving and pausing game...
+[08:06:38] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'New Modded World'/overworld
+[08:06:39] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'New Modded World'/the_nether
+[08:06:39] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'New Modded World'/ExtraUtils2_Quarry_Dim
+[08:06:39] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'New Modded World'/Storage Cell
+[08:06:39] [Server thread/INFO] [minecraft/MinecraftServer]: Saving chunks for level 'New Modded World'/MINING_WORLD
+[08:10:15] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2949ms behind, skipping 58 tick(s)
+[08:10:19] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:19] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:19] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:19] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:19] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:19] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:19] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:19] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:19] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:19] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:19] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:19] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:19] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:19] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:21] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:21] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:21] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:21] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:21] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:21] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:21] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:21] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:21] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:21] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:21] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:21] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:10:21] [Server thread/WARN] [minecraft/EntityTrackerEntry]: Fetching addPacket for removed entity
+[08:13:58] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5707ms behind, skipping 114 tick(s)
+[08:16:13] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 27661ms behind, skipping 553 tick(s)
+[08:16:30] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6621ms behind, skipping 132 tick(s)
+[08:16:38] [Thread-47/WARN] [THAUMCRAFT]: AURAS TAKING 620 ms LONGER THAN NORMAL IN DIM -1
+[08:16:38] [Thread-65/WARN] [THAUMCRAFT]: AURAS TAKING 845 ms LONGER THAN NORMAL IN DIM -6
+[08:16:38] [Thread-37/WARN] [THAUMCRAFT]: AURAS TAKING 218 ms LONGER THAN NORMAL IN DIM 0
+[08:16:39] [Thread-37/WARN] [THAUMCRAFT]: AURAS TAKING 14 ms LONGER THAN NORMAL IN DIM 0
+[08:16:58] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3086ms behind, skipping 61 tick(s)
+[08:17:32] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2516ms behind, skipping 50 tick(s)
+[08:18:00] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2115ms behind, skipping 42 tick(s)
+[08:18:38] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 14813ms behind, skipping 296 tick(s)
+[08:18:40] [Client thread/WARN] [journeymap]: TileDrawStep.updateRegionTexture was slow: 209.684907 (Warning limit reached)
+[08:18:41] [Client thread/WARN] [journeymap]: TileDrawStep.updateRegionTexture: Avg:     0.02ms, Min:        0ms, Max:    1432.11ms, Total:          5 sec, Count:   307461, Canceled:        0, Slow:       10
+[08:19:07] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 20041ms behind, skipping 400 tick(s)
+[08:19:11] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4746ms behind, skipping 94 tick(s)
+[08:19:32] [Thread-37/WARN] [THAUMCRAFT]: AURAS TAKING 97 ms LONGER THAN NORMAL IN DIM 0
+[08:19:32] [Client thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[08:19:32] [Client thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[08:19:34] [Client thread/INFO] [journeymap]: Mapping halted in C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\journeymap\data\sp\New Modded World\DIM-6
+[08:19:39] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 8544ms behind, skipping 170 tick(s)
+[08:19:48] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -6
+[08:19:49] [Thread-65/INFO] [THAUMCRAFT]: Stopping aura thread for dim -6
+[08:19:53] [Server thread/INFO] [FML]: Unloading dimension -6
+[08:19:53] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7704ms behind, skipping 154 tick(s)
+[08:20:05] [Client thread/WARN] [journeymap]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[08:20:05] [Client thread/INFO] [journeymap]: Loading journeymap.topo.config
+[08:20:08] [Client thread/INFO] [journeymap]: Loaded 6 waypoints from C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\journeymap\data\sp\New Modded World\waypoints
+[08:20:08] [Client thread/INFO] [journeymap]: Mapping started in C:\Users\Volovagos\Documents\Curse\Minecraft\Instances\All the Mods 3\journeymap\data\sp\New Modded World\DIM0. Memory: 5990MB total, 926MB free 
+[08:20:10] [JM-task-9/FATAL] [CodeChickenLib]: A CCL controlled model has been improperly handled by someone and will NOT be rendered. No more information available.
+[08:20:10] [JM-task-9/WARN] [journeymap]: Unable to get any texture to use as color for thermaldynamics:duct_0[meta=0]
+[08:20:10] [JM-task-9/WARN] [journeymap]: Unable to get any texture to use as color for thermaldynamics:duct_16[meta=3]
+[08:20:10] [JM-task-9/WARN] [journeymap]: Unable to get any texture to use as color for thermaldynamics:duct_32[meta=0]
+[08:20:10] [JM-task-9/WARN] [journeymap]: Unable to get any texture to use as color for thermaldynamics:duct_16[meta=0]
+[08:20:34] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2349ms behind, skipping 46 tick(s)
+[08:24:24] [Client thread/WARN] [journeymap]: TileDrawStep.updateRegionTexture was slow: 52.291875 (Warning limit reached)
+[08:24:24] [Client thread/WARN] [journeymap]: TileDrawStep.updateRegionTexture: Avg:     0.05ms, Min:        0ms, Max:     444.06ms, Total:          1 sec, Count:    39161, Canceled:        0, Slow:       10
+[08:25:22] [JM-task-9/FATAL] [CodeChickenLib]: A CCL controlled model has been improperly handled by someone and will NOT be rendered. No more information available.
+[08:33:30] [Server thread/INFO] [STDOUT]: [mcjty.lib.gui.GuiParserTools:parseAndHandleServer:33]: filePath = /assets/rftools/gui/builder.gui
+[08:34:04] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2178ms behind, skipping 43 tick(s)
+[08:54:49] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT] Block successfully upgraded!
+[08:54:51] [Client thread/INFO] [minecraft/GuiNewChat]: [CHAT] Block successfully upgraded!
+[08:56:47] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 20339ms behind, skipping 406 tick(s)
+[08:56:50] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2011ms behind, skipping 40 tick(s)
+[08:56:54] [Thread-37/WARN] [THAUMCRAFT]: AURAS TAKING 1703 ms LONGER THAN NORMAL IN DIM 0
+[08:58:47] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 75988ms behind, skipping 1519 tick(s)
+[08:58:59] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 12033ms behind, skipping 240 tick(s)
+[08:59:23] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 14584ms behind, skipping 291 tick(s)
+[08:59:46] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 9714ms behind, skipping 194 tick(s)
+[09:00:17] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 21751ms behind, skipping 435 tick(s)
+[09:00:28] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 10779ms behind, skipping 215 tick(s)
+[09:01:00] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 22845ms behind, skipping 456 tick(s)
+[09:01:12] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 11627ms behind, skipping 232 tick(s)
+[09:01:49] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 27081ms behind, skipping 541 tick(s)
+AL lib: (EE) MMDevApiProc: WaitForSingleObjectEx error: 0x102
